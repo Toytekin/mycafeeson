@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111891249792",
+    "project_id": "maycafeekahve",
+    "storage_bucket": "maycafeekahve.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111891249792:android:54e0b99a542ef8d97b4465",
+        "android_client_info": {
+          "package_name": "com.example.mycofeekahve"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMTPbzu-t_lnvErY8TUULGzyNcoQ8CQSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
